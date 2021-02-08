@@ -1,0 +1,214 @@
+body {
+    margin: 0;
+}
+
+.table {
+    margin: 0 auto;
+    width: 600px;
+    max-height: 400px;
+    background-color: #0d131b;
+
+}
+
+.main-logo {
+    margin: 0;
+    height: 680px;
+    background-image: url(../img/main.png);
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.new-card p {
+    padding: 0 55px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+}
+
+span {
+    font-size: 14px;
+    line-height: 22px;
+    color: #e8a336;
+    font-family: "Arial";
+}
+
+.new-card p a {
+    font-size: 14px;
+    line-height: 22px;
+    color: #fa5d26;
+    font-family: "Arial";
+}
+
+.cloy2 {
+    width: 600px;
+    height: 512px;
+}
+
+.forest p {
+    padding: 0 55px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+}
+
+.forest span {
+    font-size: 14px;
+    line-height: 22px;
+    color: #e8a336;
+    font-family: "Arial";
+}
+
+.forest a {
+    position: relative;
+    top: 76px;
+    left: 150px;
+    padding: 13px 58px;
+    background-color: #9f15a9;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 24px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.sloy3 {
+    padding-top: 50px;
+}
+
+.present h3 span {
+    font-size: 36px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.present h3 span1 {
+    font-size: 36px;
+    color: #9f15a9;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.present h3 span2 {
+    font-size: 24px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.present {
+    padding: 0 32px;
+}
+
+.present h3 {
+    margin: 0;
+    text-align: center;
+}
+
+.present a {
+    position: relative;
+    top: 28px;
+    padding: 13px 38px;
+    background-color: #9f15a9;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 24px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.present h3 p {
+    position: relative;
+    top: 30px;
+    font-size: 11px;
+    line-height: 22px;
+    color: #85908c;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+h5 {
+    margin: 0;
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+}
+
+.video p {
+    text-align: left;
+
+    padding: 0 55px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+}
+
+.predsakaz {
+    display: inline-block;
+    margin: 25px 0 55px 0;
+    padding: 13px 38px;
+    background-color: #9f15a9;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 24px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.twitch {
+    font-size: 14px;
+    line-height: 22px;
+    color: #fa5d26;
+    font-family: "Arial";
+}
+
+h6 {
+    position: relative;
+    margin: 0;
+    top: 100px;
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    z-index: 1;
+}
+
+.end {
+    position: relative;
+}
