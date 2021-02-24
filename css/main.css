@@ -3,20 +3,28 @@ body {
 }
 
 .table {
+
     margin: 0 auto;
     width: 600px;
     max-height: 400px;
     background-color: #0d131b;
 
 }
-
+.knopka {
+    display: inline-block;
+    margin: 0;
+    padding-top: 40px;
+    text-align: center;
+}
 .main-logo {
     margin: 0;
     height: 680px;
-    background-image: url(../img/main.png);
+    background-image: url(https://raw.githubusercontent.com/OzyOfficer/img/master/img/main.png);
+    background-size: cover;
 }
 
 h1 {
+    margin: 0;
     text-align: center;
     font-size: 55px;
     color: #20b4bb;
@@ -25,6 +33,7 @@ h1 {
 }
 
 h2 {
+    margin: 0;
     text-align: center;
     font-size: 36px;
     color: #bcbcbd;
@@ -34,13 +43,14 @@ h2 {
 
 .new-card p {
     padding: 0 55px;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 22px;
     color: #86918c;
     font-family: "Arial";
 }
 
 span {
+    
     font-size: 14px;
     line-height: 22px;
     color: #e8a336;
@@ -58,9 +68,13 @@ span {
     width: 600px;
     height: 512px;
 }
-
+.forest{
+    text-align: center;
+}
 .forest p {
-    padding: 0 55px;
+    text-align: left;
+    padding-left: 55px;
+    padding-right: 55px;
     font-size: 14px;
     line-height: 22px;
     color: #86918c;
@@ -75,7 +89,6 @@ span {
 }
 
 .forest a {
-    position: relative;
     top: 76px;
     left: 150px;
     padding: 13px 58px;
@@ -93,7 +106,8 @@ span {
     padding-top: 50px;
 }
 
-.present h3 span {
+.span {
+    line-height: 42px;
     font-size: 36px;
     color: #20b4bb;
     font-weight: bold;
@@ -102,7 +116,8 @@ span {
     text-transform: uppercase;
 }
 
-.present h3 span1 {
+.span1 {
+    line-height: 42px;
     font-size: 36px;
     color: #9f15a9;
     font-weight: bold;
@@ -111,7 +126,8 @@ span {
     text-transform: uppercase;
 }
 
-.present h3 span2 {
+.span2 {
+    line-height: 28px;
     font-size: 24px;
     color: #bcbcbd;
     font-weight: bold;
@@ -120,7 +136,7 @@ span {
 }
 
 .present {
-    padding: 0 32px;
+    padding: 0 31px;
 }
 
 .present h3 {
@@ -129,8 +145,8 @@ span {
 }
 
 .present a {
-    position: relative;
-    top: 28px;
+    display: inline-block;
+    top: 28px;  
     padding: 13px 38px;
     background-color: #9f15a9;
     text-decoration: none;
@@ -143,8 +159,6 @@ span {
 }
 
 .present h3 p {
-    position: relative;
-    top: 30px;
     font-size: 11px;
     line-height: 22px;
     color: #85908c;
@@ -198,7 +212,7 @@ h5 {
 }
 
 h6 {
-    position: relative;
+
     margin: 0;
     top: 100px;
     font-size: 36px;
@@ -208,7 +222,41 @@ h6 {
     text-align: center;
     z-index: 1;
 }
-
-.end {
-    position: relative;
+.finish{
+    margin: 0;
+    padding: 54px 0 0 0;
+    background-image: url(https://raw.githubusercontent.com/OleksandrIsaev/sendmail/master/img/sloy5.png);
+}
+.finish h5{
+    margin: 0;
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.finish p{
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+    font-family: "Arial";
+    text-align: center;
+}
+.finish a{
+    text-decoration: underline;
+    color: #b25000;
+}
+.finish i{
+    font-style: normal;
+    font-weight: bold;
+    color: #b25000;
+}
+.finish1 a{
+    text-align: center;
+    height: 50px;
+    display: inline-block;
+}
+.finish1 a{
+    display: inline-block;
+    background-color: #fff;
 }
